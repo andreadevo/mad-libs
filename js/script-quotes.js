@@ -31,7 +31,7 @@ $(document).ready(function(){
         "Be " + userInput.input1 + ", for everyone you meet is " + userInput.input2 + " a hard " + userInput.input3 + ".",
         "I alone cannot change the " + userInput.input1 + ", but I can " + userInput.input2 + " a stone across the waters to create " + userInput.input3 + " ripples.",
         "The more that you " + userInput.input1 +  ", the more things you will " + userInput.input2 + ", the more that you "  + userInput.input3 + ", the more places you'll go.",
-        "This is the " + userInput.input1 + " where you " + userInput.input2 + userInput.input3 + "."
+        "This is the " + userInput.input1 + " where you " + userInput.input2 + " " + userInput.input3 + "."
     ]
 
     // ARRAY OF ORIGINAL QUOTES
